@@ -1,0 +1,11 @@
+D:\DOCUMENT\Pemrograman\Latihaninheritance\Latihaninheritance\bin\Debug\netcoreapp2.1\Latihaninheritance.deps.json
+D:\DOCUMENT\Pemrograman\Latihaninheritance\Latihaninheritance\bin\Debug\netcoreapp2.1\Latihaninheritance.runtimeconfig.json
+D:\DOCUMENT\Pemrograman\Latihaninheritance\Latihaninheritance\bin\Debug\netcoreapp2.1\Latihaninheritance.runtimeconfig.dev.json
+D:\DOCUMENT\Pemrograman\Latihaninheritance\Latihaninheritance\bin\Debug\netcoreapp2.1\Latihaninheritance.dll
+D:\DOCUMENT\Pemrograman\Latihaninheritance\Latihaninheritance\bin\Debug\netcoreapp2.1\Latihaninheritance.pdb
+D:\DOCUMENT\Pemrograman\Latihaninheritance\Latihaninheritance\obj\Debug\netcoreapp2.1\Latihaninheritance.csprojAssemblyReference.cache
+D:\DOCUMENT\Pemrograman\Latihaninheritance\Latihaninheritance\obj\Debug\netcoreapp2.1\Latihaninheritance.csproj.CoreCompileInputs.cache
+D:\DOCUMENT\Pemrograman\Latihaninheritance\Latihaninheritance\obj\Debug\netcoreapp2.1\Latihaninheritance.AssemblyInfoInputs.cache
+D:\DOCUMENT\Pemrograman\Latihaninheritance\Latihaninheritance\obj\Debug\netcoreapp2.1\Latihaninheritance.AssemblyInfo.cs
+D:\DOCUMENT\Pemrograman\Latihaninheritance\Latihaninheritance\obj\Debug\netcoreapp2.1\Latihaninheritance.dll
+D:\DOCUMENT\Pemrograman\Latihaninheritance\Latihaninheritance\obj\Debug\netcoreapp2.1\Latihaninheritance.pdb
